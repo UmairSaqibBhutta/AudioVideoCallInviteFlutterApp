@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "727471938809",
+    "project_id": "call-invite-zego",
+    "storage_bucket": "call-invite-zego.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727471938809:android:dea1ac4d15aaefc3d91628",
+        "android_client_info": {
+          "package_name": "com.example.audio_video_call"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ7TPMDhN1Y9xYg18GqnzfvEgPCqKFlOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
